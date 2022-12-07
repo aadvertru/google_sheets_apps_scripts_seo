@@ -1,5 +1,3 @@
-// Checks whether the given page is indexed by Google or not
-
 function checkIfPageIsIndexed(url)
 {
    url = "https://www.google.com/search?q=site:"+url;
